@@ -5,6 +5,8 @@ Automation using CI/CD pipelines and while adding security scans is best practic
 link to previous project: 
 🔗 https://github.com/DMayrant/Elastic-Kubernetes-Service.git
 
+![image alt](https://github.com/DMayrant/DevSecOps-Workflow/blob/main/CI:CD%20Pipeline.jpeg?raw=true)
+
 
 # Jenkins CI/CD Pipeline 🔐
 
