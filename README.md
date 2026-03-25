@@ -8,6 +8,9 @@ link to previous project:
 ![image alt](https://github.com/DMayrant/DevSecOps-Workflow/blob/main/CI:CD%20Pipeline.jpeg?raw=true)
 
 
+![image alt](https://github.com/DMayrant/DevSecOps-Workflow/blob/main/Screenshot%202569-03-25%20at%2016.27.28.png?raw=true)
+
+
 # Jenkins CI/CD Pipeline 🔐
 
 Pipeline Security 
