@@ -5,3 +5,48 @@ Automation using CI/CD pipelines and while adding security scans is best practic
 link to previous project: 
 🔗 https://github.com/DMayrant/Elastic-Kubernetes-Service.git
 
+
+# Jenkins CI/CD Pipeline 🔐
+
+Pipeline Security 
+- Trivy (container image scan)
+- Tfsec (terraform configuration file scan)
+- Checkov (Kubernetes YAML, JSON, and terraform config scan)
+- OWASP ZAP ⚡️ (Endpoint exposure detection)
+- Kubescape (Cluster hardening, NSA and MITRE compliance)
+
+
+# Kubernetes ☸️
+
+Workloads 
+- ClusterIP service
+- Nginx Deployment 
+- Test pod for internal service discovery 
+- Custom Service Account
+- Namespaces 
+- ResourceQuotas
+
+# Terraform Iac Infrastructure 🏗️
+
+Networking 🛜
+
+- VPC ☁️ US-east-1
+- Subnets (Private/Public)
+- Endpoints to SSM
+- ALB  
+
+Infrastructure/Edge Security 🔐
+
+- WAF (DDOS protection)
+- Guardduty (threat detection)
+- ACM (SSL/TLS off loading)
+
+Storage 
+
+- S3 backend with DynamoDB lock
+- Object storage for ALB/SSM logs
+- Aurora Database 
+
+Observability 
+- CloudWatch 
+- CloudTrail 
