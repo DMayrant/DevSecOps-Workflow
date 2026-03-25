@@ -50,3 +50,8 @@ Storage
 Observability 
 - CloudWatch 
 - CloudTrail 
+
+# Improvements for Next time 
+
+Ill focus more on Observability for Kubernetes using Prometheus and Grafana and intergrade RBAC with OIDC for improved cluster 
+security and observability. Ill add helm charts for more of complete workflow 
