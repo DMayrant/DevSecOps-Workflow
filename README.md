@@ -44,7 +44,7 @@ Infrastructure/Edge Security 🔐
 
 - WAF (DDOS protection)
 - Guardduty (threat detection)
-- ACM (SSL/TLS off loading)
+- ACM (SSL/TLS certificates)
 
 Storage 
 
